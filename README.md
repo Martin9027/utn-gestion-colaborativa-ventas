@@ -1,23 +1,21 @@
-# PROYECTO UTN - GESTION COLABORATIVA
+# Trabajo Practico UTN - Gestion Colaborativa
 
-## Escenario seleccionado
+# Tema elegido
 Analisis de ventas de una pequeña empresa.
 
-## Integrante
+# Alumno
 Martin Ezequiel
 
-## Objetivo
-Desarrollar un flujo de trabajo colaborativo utilizando Jira, Git, GitHub y Google Colab para analizar un dataset de ventas comerciales.
+# Que se hizo en el trabajo
+Se utilizo Jira para organizar tareas, GitHub para guardar versiones del proyecto y Google Colab para probar el codigo en Python.
 
-## Estructura del repositorio
-- /datos : almacenamiento del dataset
-- /scripts : scripts de procesamiento Python
-- /resultados : graficos y archivos generados
+# Archivos del repositorio
+- datos: contiene los datos de ventas usados.
+- scripts: contiene el programa realizado.
+- resultados: contiene el resultado final del analisis.
 
-## Herramientas utilizadas
-- Jira para gestion de tareas
-- Git y GitHub para control de versiones
-- Google Colab para ejecucion tecnica
+# Resultado obtenido
+Con el programa se calculo el dinero total vendido y se identifico cual fue el producto mas vendido.
 
-## Estado del proyecto
-En desarrollo.
+# Estado
+Trabajo finalizado correctamente.
